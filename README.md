@@ -39,13 +39,26 @@
  
  -->
 <div align="center">
+ 
 <img src="https://media.licdn.com/dms/image/C5122AQF9_IGT1XQnWg/feedshare-shrink_1280/0/1561388213088?e=2147483647&v=beta&t=nNjNJ9_CAZb9qsrZKhhT0YhtM9Tma4XHmzosVs8UKQo" width="100" height="100px">
   <img src="https://portfolio-himanshu.in/assets/imgs/css3.gif" width="100" height="100px">  
  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">      
  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"> 
+ <img src="https://i0.wp.com/programmingwithmosh.com/wp-content/uploads/2020/02/reduxlogo.png?ssl=1" alt="redux" style="transform:rotate(360deg), transition: all .25s ease"  width="100" height="90px">
+ <img src="https://sledsworth.gallerycdn.vsassets.io/extensions/sledsworth/react-redux-es6-snippets/0.5.3/1530106605209/Microsoft.VisualStudio.Services.Icons.Default" alt="react redux " width="100" height="100px">
+ <img src="https://opencollective-production.s3.us-west-1.amazonaws.com/d9875b30-d156-11e9-9bd6-9b3137b96616.png" width="100">
+  <img src="https://farm5.staticflickr.com/4529/38018565835_1bf7e196f5.jpg" alt="ts" width="100"  height="100px">  
+ <br>
+  <img src="https://cdn.dribbble.com/users/187497/screenshots/6764704/gifma.gif" alt="Figma" width="110" height="110px">
+  <img src="https://codetru.com/images/all/nodejsdis.gif" width="100">
+  <img src="https://miro.medium.com/max/1200/0*GTTsEc-bsWoqcOoM.gif" width="120" height="120px">
+
+ <img src="https://vectorified.com/images/express-js-icon-20.png" alt="mhtbansal11" width="100"  height="100px">
+<!--   <br> -->
  <img src="https://cdn.iconscout.com/icon/free/png-256/npm-3550843-2970428.png" width="100">
  <img src="https://sdtimes.com/wp-content/uploads/2020/04/1_oBm_3saYz4AI_MS6OekdFQ.png" alt="vercel" width="100"  height="100px">
  <img src="https://i0.wp.com/www.cyclic-bikestore.com/wp-content/uploads/2016/11/Cyclic-Logo.png?ssl=1" alt="cyclic" width="100"  height="100px">
+ <br>
  <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/344/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-filled-tal-revivo.png" alt="netlify" width="100" height="100px">
  <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=ecf05e47243naql4ppv14fb6z23ni6c6o75mhx1w55umom65&rid=200.webp&ct=g" width="100">      
  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">      
